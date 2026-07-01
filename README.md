@@ -1,17 +1,11 @@
 <div align="center">
+  
+🔒 Kaynak Kod Hakkında GridBase ticari bir üründür; çekirdek kaynak kodu private tutulmaktadır. Bu repo; mimariyi, dokümantasyonu ve canlı demoyu tanıtan bir vitrindir. Değerlendirme amacıyla private repoya erişim talep edebilirsiniz — memnuniyetle paylaşırım.
 
- 🔒 **Kaynak Kod Hakkında**
- GridBase ticari bir üründür; çekirdek kaynak kodu private tutulmaktadır.
- Bu repo; mimariyi, dokümantasyonu ve canlı demoyu tanıtan bir vitrindir.
- Değerlendirme amacıyla **private repoya erişim talep edebilirsiniz** — memnuniyetle paylaşırım.
+<br/>
+🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1 <br/>
+📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1<br/>
 
- <br/>
- 🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1  <br/>
- 📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1
-</div>
-
-
-<div align="center">
 
 # 🛡️ GridBase
 
@@ -31,6 +25,8 @@ Modern web uygulamaları ve low-code platformlar için tasarlanmış, yüksek pe
 ![License](https://img.shields.io/badge/Status-Active%20Development-orange?style=flat-square)
 
 </div>
+
+
 
 > 🚧 **Not:** Bu proje aktif geliştirme aşamasındadır ve **WorkGrid** ekosisteminin ana omurgası olarak inşa edilmektedir. Çekirdek özellikler (CRUD, doğrulama, ilişkiler, çok kiracılılık, yetkilendirme, Console) çalışır durumdadır; gerçek zamanlı motor ve yapay zeka modülleri yol haritasındadır.
 
