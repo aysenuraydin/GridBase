@@ -1,0 +1,6 @@
+@gridbase.FileApi_HostAddress = http://localhost:5259
+
+GET {{gridbase.FileApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
