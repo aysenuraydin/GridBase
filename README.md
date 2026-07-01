@@ -8,7 +8,7 @@
  <br/>
  🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1  <br/>
  📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1
-<div align="center">
+<div>
 
 # 🛡️ GridBase
 
