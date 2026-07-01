@@ -8,7 +8,10 @@
  <br/>
  🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1  <br/>
  📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1
+</div>
 
+
+<div align="center">
 
 # 🛡️ GridBase
 
@@ -17,7 +20,7 @@
 *"Mimari özgürlük, kesintisiz performans."*
 
 Modern web uygulamaları ve low-code platformlar için tasarlanmış, yüksek performanslı ve çok kiracılı (multi-tenant) bir **Backend-as-a-Service (BaaS)** motoru.
-<div>
+
 <br/>
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -337,4 +340,5 @@ Development is moving rapidly toward the first stable release (**v0.1.0**). **St
 **AYŞENUR AYDIN** — *Software Architect*
 
 </div>
+
 
