@@ -8,6 +8,7 @@
  <br/>
  🔗 **Canlı Demo:** https://www.linkedin.com/in/aysenur-aydin1  <br/>
  📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1
+<div align="center">
 
 # 🛡️ GridBase
 
@@ -336,3 +337,4 @@ Development is moving rapidly toward the first stable release (**v0.1.0**). **St
 **AYŞENUR AYDIN** — *Software Architect*
 
 </div>
+
