@@ -4,7 +4,7 @@
 
 <br/>
 🔗 **Canlı Demo:** https://gridbase-startup.vercel.app <br/>
-🔗 **Detaylı Doküman:** https://gridbase-startup.vercel.app/documents <br/>
+🔗 **Detaylı Doküman:** https://gridbase-startup.vercel.app/documents-page <br/>
 📧 **İletişim / Erişim talebi:** https://www.linkedin.com/in/aysenur-aydin1<br/>
 
 
